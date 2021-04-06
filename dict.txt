@@ -1,0 +1,14 @@
+ant
+baboon
+badger
+bat
+bear
+beaver
+camel
+ca
+clam
+cobra
+cougar
+coyote
+crow
+crocodile

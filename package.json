@@ -2,5 +2,11 @@
   "name": "exercice-hangman",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "repository": "git@github.com:ChainDot/exercices-hangman.git",
+  "author": "ChainDot <crypto.dot@protonmail.com>"
 }
